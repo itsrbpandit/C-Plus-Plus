@@ -5,9 +5,7 @@ var namespaces_dup =
     [ "activations", "d5/d39/namespaceactivations.html", null ],
     [ "atbash", "de/db3/namespaceatbash.html", null ],
     [ "aystar_search", "db/ddc/namespaceaystar__search.html", null ],
-    [ "backtracking", "db/dc0/namespacebacktracking.html", [
-      [ "minimax", "db/dc0/namespacebacktracking.html#a78540bcb5ef3473b2348cbc34748ec50", null ]
-    ] ],
+    [ "backtracking", "db/dc0/namespacebacktracking.html", "db/dc0/namespacebacktracking" ],
     [ "base64_encoding", "d9/dc9/namespacebase64__encoding.html", null ],
     [ "bidirectional_dijkstra", "d4/d13/namespacebidirectional__dijkstra.html", null ],
     [ "binomial", "d7/d7a/namespacebinomial.html", null ],
@@ -33,6 +31,7 @@ var namespaces_dup =
     [ "dp", "df/d88/namespacedp.html", null ],
     [ "dynamic_programming", "dd/d24/namespacedynamic__programming.html", [
       [ "LIS", "dd/d24/namespacedynamic__programming.html#a0a2215194e58786c34db1ccaf8031079", null ],
+      [ "lps", "dd/d24/namespacedynamic__programming.html#afe9f45b6e30ee187509da2d1d0093412", null ],
       [ "maxCircularSum", "dd/d24/namespacedynamic__programming.html#a5239174fa0d987f2c67edc1f2af82beb", null ]
     ] ],
     [ "false_position", "df/dea/namespacefalse__position.html", null ],
